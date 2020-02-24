@@ -1,0 +1,169 @@
+.flex-container {
+  flex-direction: column;
+  justify-content:flex-start;
+}
+
+.Stage1, .Stage2 , .Stage3, .Stage4 {
+  display: inline-flex;
+  position: relative;
+  margin-left: 200px;
+  height:1540px;
+}
+
+.vertical-line-top-2{
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 105px;
+  position: relative;
+  left:7.5px;
+}
+
+.vertical-line-top-3{
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 265px;
+  position: relative;
+  left:7.5px;
+}
+
+.vertical-line-top-4{
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 625px;
+  position: relative;
+  left:7.5px;
+}
+
+.vertical-line-bot-2{
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 105px;
+  position: relative;
+  left: 7.5px;
+}
+
+.vertical-line-bot-3{
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 265px;
+  position: relative;
+  left: 7.5px;
+}
+
+.vertical-line-bot-4{
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 665px;
+  position: relative;
+  left: 7.5px;
+}
+
+.vertical-space-line-2 {
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 175px;
+  position: relative;
+  left: 7.5px;
+}
+
+.vertical-space-line-3 {
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 295px;
+  position: relative;
+  left: 7.5px;
+}
+.vertical-space-line-4 {
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 175px;
+  position: relative;
+  left: 7.5px;
+}
+
+.vertical-space-line-5 {
+  border-left: 2px solid #959595;
+  margin: auto;
+  width: 15px;
+  height: 615px;
+  position: relative;
+  left: 7.5px;
+}
+
+.winner-line-3{
+  border-right: 2px solid #959595;
+  height:20%;
+  position:absolute;
+  top:240px;
+  right: -100px;
+}
+
+.winner-line-4{
+  border-right: 2px solid #959595;
+  height:22%;
+  position:absolute;
+  top:990px;
+  right: -100px;
+}
+
+.winner-line-5{
+  border-right: 2px solid #959595;
+  height:52%;
+  position:absolute;
+  top:390px;
+  right: -100px;
+}
+
+.horizontal-line-1{
+  border-top: 2px solid #959595;
+  margin: auto;
+  width: 55%;
+  position: relative;
+  left: 255px;
+  top:-5px;
+}
+
+.horizontal-line-2{
+  border-top: 2px solid #959595;
+  margin: auto;
+  width: 55%;
+  position: relative;
+  left: 255px;
+  top:-5px;
+}
+
+.horizontal-line-3{
+  border-top: 2px solid #959595;
+  margin: auto;
+  width: 55%;
+  position: relative;
+  left: 255px;
+  top:-85px;
+}
+
+.horizontal-line-4{
+   border-top: 2px solid #959595;
+   margin: auto;
+   width: 55%;
+   position: relative;
+   left: 255px;
+   top:-85px;
+ }
+
+.horizontal-line-5{
+  border-top: 2px solid #959595;
+  margin: auto;
+  width: 55%;
+  position: relative;
+  left: 255px;
+  top:-325px;
+}
